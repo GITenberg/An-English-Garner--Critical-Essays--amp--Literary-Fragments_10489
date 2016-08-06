@@ -1,0 +1,52 @@
+_repo: An-English-Garner--Critical-Essays--amp--Literary-Fragments_10489
+_version: 0.0.1
+alternative_title: Critical Essays and Literary Fragments
+contributor:
+  author_of_introduction:
+    agent_name: Collins, John Churton
+    alias: Collins, J. Churton (John Churton)
+    birthdate: 1848
+    deathdate: 1908
+    gutenberg_agent_id: '4668'
+    url: http://www.gutenberg.org/2009/agents/4668
+    wikipedia: http://en.wikipedia.org/wiki/John_Churton_Collins
+creator:
+  editors:
+  - agent_name: Arber, Edward
+    birthdate: 1836
+    deathdate: 1912
+    gutenberg_agent_id: '3122'
+    url: http://www.gutenberg.org/2009/agents/3122
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Arber
+  - agent_name: Seccombe, Thomas
+    birthdate: 1866
+    deathdate: 1923
+    gutenberg_agent_id: '7999'
+    url: http://www.gutenberg.org/2009/agents/7999
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10489'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- History and criticism'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: I. Extract from Thomas Wilson's Art of rhetoric, 1554 -- II. Sir
+  Philip Sidney's Letter to his brother Robert, 1580 -- III. Extract from Francis
+  Meres's Palladis Tamia, 1598 -- IV. Dryden's Dedicatory epistle to The rival ladies,
+  1664 -- V. Sir Robert Howard's Preface to Four new plays, 1665 -- VI. Dryden's Essay
+  of dramatic poesy, 1668 -- VII. Extract from Thomas Ellwood's History of himself,
+  describing his relations with Milton, 1713 -- VIII. Bishop Copleston's advice to
+  a young reviewer, 1807 -- IX. The Bickerstaff and Partridge tracts, 1708 -- X. Gay's
+  Present state of wit, 1711 -- XI. Tickell's Life of Addison, 1721 -- XII. Steele's
+  Dedicatory epistle to Congreve, 1722 -- XIII. Extract from Chamberlayne's Angliae
+  notitia, 1669 -- XIV. Eachard's Grounds and occasions of the contempt of the clergy
+  and religion, 1670 -- XV. Bickerstaff's Miseries of the domestic chaplain, 1710
+  -- XVI. Franklin's Poor Richard improved, 1757.
+title: 'An English Garner: Critical Essays & Literary Fragments'
+url: http://www.gutenberg.org/ebooks/10489
