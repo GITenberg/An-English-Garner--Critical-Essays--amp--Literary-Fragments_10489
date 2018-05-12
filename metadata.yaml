@@ -1,5 +1,5 @@
 _repo: An-English-Garner--Critical-Essays--amp--Literary-Fragments_10489
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Critical Essays and Literary Fragments
 contributor:
   author_of_introduction:
@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '4668'
     url: http://www.gutenberg.org/2009/agents/4668
     wikipedia: http://en.wikipedia.org/wiki/John_Churton_Collins
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editors:
   - agent_name: Arber, Edward
@@ -24,6 +27,8 @@ creator:
     gutenberg_agent_id: '7999'
     url: http://www.gutenberg.org/2009/agents/7999
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10489#An-English-Garner--Critical-Essays--amp--Literary-Fragments
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
